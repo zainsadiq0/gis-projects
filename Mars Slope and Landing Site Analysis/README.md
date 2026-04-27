@@ -47,7 +47,7 @@ This project analyzes slope-based terrain suitability across Mars to identify re
 
 ##  Findings
 
-The slope-based suitability analysis revealed that large portions of the **Martian northern lowlands** and **equatorial plains** rank as the most favorable terrain for landing, consistent with their characteristically flat, low-elevation topography. Mapping historical landing sites against the suitability surface shows strong spatial agreement — the majority of past missions targeted zones that align with low-slope, high-suitability areas. This pattern suggests that terrain gradient has been an implicit driver of mission site selection across agencies and eras, reinforcing slope as a key criterion in historical mission planning.
+The slope-based suitability analysis revealed that large portions of the **Martian northern lowlands** and **equatorial plains** rank as the most favorable terrain for landing, consistent with their characteristically flat, low-elevation topography. Mapping historical landing sites against the suitability surface shows strong spatial agreement, the majority of past missions targeted zones that align with low-slope, high-suitability areas. This pattern suggests that terrain gradient has been an implicit driver of mission site selection across agencies and eras, reinforcing slope as a key criterion in historical mission planning.
 
 ---
 
