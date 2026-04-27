@@ -1,1 +1,75 @@
+#Mars Slope & Landing Site Analysis
 
+A GIS-based site suitability analysis for Mars built in **ArcGIS Pro**, using NASA's MOLA DEM data to evaluate terrain slope across the Martian surface and map all major historical landing sites.
+
+---
+
+## Overview
+
+This project analyzes slope-based terrain suitability across Mars to identify regions favorable for safe landing and surface operations. Historical landing sites from multiple NASA missions are georeferenced and mapped alongside the suitability surface, providing spatial context for understanding mission site selection patterns.
+
+---
+
+## Data Sources
+
+| Dataset | Source |
+|---|---|
+| MOLA DEM (Mars Orbiter Laser Altimeter) | NASA / USGS |
+| Historical Landing Site Coordinates | NASA / manually digitized |
+
+---
+
+## Methods
+
+1. **DEM Import** — MOLA elevation data acquired and loaded into ArcGIS Pro
+2. **Slope Derivation** — Slope raster extracted from the DEM surface
+3. **Reclassification** — Slope values reclassified into suitability categories; lower slope = higher suitability
+4. **Landing Site Digitization** — Historical sites digitized as point features, labeled by mission name
+5. **Coordinate System** — All layers projected to **Mars 2000 (Sphere)**
+6. **Layout Design** — Final map composed in ArcGIS Pro layout view for poster-style presentation
+
+---
+
+## Landing Sites Mapped
+
+| Mission | Agency | Year |
+|---|---|---|
+| Viking 1 | NASA | 1976 |
+| Viking 2 | NASA | 1976 |
+| Mars Pathfinder | NASA | 1997 |
+| Opportunity (MER-B) | NASA | 2004 |
+| Spirit (MER-A) | NASA | 2004 |
+| Curiosity (MSL) | NASA | 2012 |
+| InSight | NASA | 2018 |
+| Perseverance (Mars 2020) | NASA | 2021 |
+
+---
+
+## Findings
+
+The slope-based suitability analysis revealed that large portions of the **Martian northern lowlands** and **equatorial plains** rank as the most favorable terrain for landing, consistent with their characteristically flat, low-elevation topography. Mapping historical landing sites against the suitability surface shows strong spatial agreement — the majority of past missions targeted zones that align with low-slope, high-suitability areas. This pattern suggests that terrain gradient has been an implicit driver of mission site selection across agencies and eras, reinforcing slope as a key criterion in historical mission planning.
+
+---
+
+## Output
+
+![Mars Slope and Landing Site Analysis](layout_preview.png)
+
+> *Final poster layout produced in ArcGIS Pro. Includes slope suitability raster, labeled landing sites, legend, scale bar, and Rutgers University branding.*
+
+---
+
+## Tools & Software
+
+- **ArcGIS Pro** — Spatial analysis, raster processing, and map layout
+- **MOLA DEM** — Primary elevation dataset
+- **Mars 2000 (Sphere)** — Coordinate reference system
+
+---
+
+## Author
+
+**Zain Sadiq**  
+Rutgers University – New Brunswick  
+B.A. Information Technology & Informatics | B.A. Geography (GIS/Tech Track)  
+Minor in Data Science
