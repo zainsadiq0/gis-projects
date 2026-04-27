@@ -1,16 +1,16 @@
-# 🔴 Mars Slope & Landing Site Analysis
+#  Mars Slope & Landing Site Analysis
 
 A GIS-based site suitability analysis for Mars built in **ArcGIS Pro**, using NASA's MOLA DEM data to evaluate terrain slope across the Martian surface and map all major historical landing sites.
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project analyzes slope-based terrain suitability across Mars to identify regions favorable for safe landing and surface operations. Historical landing sites from multiple NASA missions are georeferenced and mapped alongside the suitability surface, providing spatial context for understanding mission site selection patterns.
 
 ---
 
-## 🗂️ Data Sources
+## Data Sources
 
 | Dataset | Source |
 |---|---|
@@ -19,7 +19,7 @@ This project analyzes slope-based terrain suitability across Mars to identify re
 
 ---
 
-## 🛠️ Methods
+##  Methods
 
 1. **DEM Import** — MOLA elevation data acquired and loaded into ArcGIS Pro
 2. **Slope Derivation** — Slope raster extracted from the DEM surface
@@ -30,7 +30,7 @@ This project analyzes slope-based terrain suitability across Mars to identify re
 
 ---
 
-## 🚀 Landing Sites Mapped
+##  Landing Sites Mapped
 
 | Mission | Agency | Year |
 |---|---|---|
@@ -45,21 +45,21 @@ This project analyzes slope-based terrain suitability across Mars to identify re
 
 ---
 
-## 📊 Findings
+##  Findings
 
 The slope-based suitability analysis revealed that large portions of the **Martian northern lowlands** and **equatorial plains** rank as the most favorable terrain for landing, consistent with their characteristically flat, low-elevation topography. Mapping historical landing sites against the suitability surface shows strong spatial agreement — the majority of past missions targeted zones that align with low-slope, high-suitability areas. This pattern suggests that terrain gradient has been an implicit driver of mission site selection across agencies and eras, reinforcing slope as a key criterion in historical mission planning.
 
 ---
 
-## 🖼️ Output
+##  Output
 
-![Mars Slope and Landing Site Analysis](layout_preview.png)
+![Mars Slope and Landing Site Analysis](Mars_Layout.pdf)
 
 > *Final poster layout produced in ArcGIS Pro. Includes slope suitability raster, labeled landing sites, legend, scale bar, and Rutgers University branding.*
 
 ---
 
-## 🧰 Tools & Software
+## Tools & Software
 
 - **ArcGIS Pro** — Spatial analysis, raster processing, and map layout
 - **MOLA DEM** — Primary elevation dataset
@@ -67,7 +67,7 @@ The slope-based suitability analysis revealed that large portions of the **Marti
 
 ---
 
-## 👤 Author
+## Author
 
 **Zain Sadiq**  
 Rutgers University – New Brunswick  
