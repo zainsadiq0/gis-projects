@@ -53,7 +53,7 @@ The slope-based suitability analysis revealed that large portions of the **Marti
 
 ##  Output
 
-![Mars Slope and Landing Site Analysis](Mars_Layout.pdf)
+![Mars Slope and Landing Site Analysis](Mars_Layout.png)
 
 > *Final poster layout produced in ArcGIS Pro. Includes slope suitability raster, labeled landing sites, legend, scale bar, and Rutgers University branding.*
 
