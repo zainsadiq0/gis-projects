@@ -1,6 +1,4 @@
 # 🌍GIS Project Portfolio
-**Zain Sadiq** — Rutgers University–New Brunswick  
-B.S. Information Technology & Informatics | B.S. Geography (GIS/Tech Track) | Minor in Data Science
 
 ---
 
