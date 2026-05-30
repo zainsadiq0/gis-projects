@@ -2,7 +2,7 @@
 
 ---
 
-A collection of GIS and remote sensing projects built using ArcGIS Pro, covering topics in planetary science, environmental analysis, and spatial data visualization. All projects use real-world datasets from NASA, USGS, and other public sources.
+A collection of GIS and remote sensing projects built using ArcGIS Pro, covering topics in planetary science, environmental analysis, and spatial data visualization. All projects use real world datasets from NASA, USGS, and other public sources.
 
 ---
 
