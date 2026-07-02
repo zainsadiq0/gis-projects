@@ -8,7 +8,7 @@ A collection of GIS and remote sensing projects built using ArcGIS Pro, covering
 
 ## Projects
 
-### [Mars Slope & Landing Site Analysis](./mars-slope-landing-site-analysis)
+### [Mars Slope & Landing Site Analysis](./Mars Slope and Landing Site Analysis)
 > Planetary GIS | ArcGIS Pro | MOLA DEM | NASA
 
 Slope based terrain suitability analysis for Mars using NASA's MOLA DEM. All major historical landing sites (Viking 1, Viking 2, Pathfinder, Opportunity, Spirit, Curiosity, InSight, Perseverance) are georeferenced and mapped alongside the suitability surface.
